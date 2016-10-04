@@ -1,0 +1,18 @@
+Ventor es un software que fue creado para un negocio específico,
+pero hoy en día ha sido liberado para los estudiantes o personas
+que quieran entrar al mundo de PHP y sistemas web.
+
+* Esta versión no incluye SOPORTE/MEJORA
+* Esta versión no incluye GUÍA DE USUARIO
+
+La versión que se te ha entregado esta con la base de datos limpia:
+- Crea un par de clientes
+- Crea un par de productos
+- La tabla EMPRESA define las empresas con la que va a trabajar VENTOR
+- Con esto puedes comenzar hacer las pruebas necesarias
+
+* RECUERDA QUE ESTA VERSION DEL SOFTWARE ES SOLO PARA ESTUDIANTES
+  ES POR ESO SU BAJO COSTO. LA FINALIDAD ES ESTUDIAR EL CÓDIGO Y
+  ENTENDER COMO ADAPTAMOS LAS REGLAS DE NEGOCIO A UN SOFTWARE.
+
+
